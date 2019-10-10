@@ -23,7 +23,7 @@ QT5.6/C++
 # Interface	
 
 <p align="center">
-	<img src="https://github.com/kaiwu119/BallFreeFallAnimation/blob/master/image/ballFreeFall.jpg"  width="600" height="300">
+	<img src="https://github.com/kaiwu119/BallFreeFallAnimation/blob/master/image/ballFreeFall.jpg"  width="1000" height="500">
 	<p align="center">
 		<em>interface</em>
 	</p>
